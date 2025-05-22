@@ -1,0 +1,37 @@
+title:PvE God Rolls from the Silver Void clan.
+description:Maintained by sleightmoves
+
+// ====================================================
+// ====================================================
+// Rite of the Nine Weapons
+// ====================================================
+// ====================================================
+
+// Wilderflight / Holofoil / Adept / Adept Holofoil
+//notes:Silver Void PvE
+dimwishlist:item=1206729100&perks=3032599245,776531651,2048641572
+dimwishlist:item=1206729100&perks=3032599245,3300816228,4104185692
+dimwishlist:item=1206729100&perks=3301904089,3987942396,3078487919
+dimwishlist:item=2982006965&perks=3032599245,776531651,2048641572
+dimwishlist:item=2982006965&perks=3032599245,3300816228,4104185692
+dimwishlist:item=2982006965&perks=3301904089,3987942396,3078487919
+dimwishlist:item=559523765&perks=3032599245,776531651,2048641572
+dimwishlist:item=559523765&perks=3032599245,3300816228,4104185692
+dimwishlist:item=559523765&perks=3301904089,3987942396,3078487919
+dimwishlist:item=2477408004&perks=3032599245,776531651,2048641572
+dimwishlist:item=2477408004&perks=3032599245,3300816228,4104185692
+dimwishlist:item=2477408004&perks=3301904089,3987942396,3078487919
+
+// Liminal Vigil / Holofoil / Adept / Adept Holofoil
+//notes:Silver Void PvE
+dimwishlist:item=2575844666&perks=124408337,1955165503
+dimwishlist:item=1460079227&perks=124408337,1955165503
+dimwishlist:item=3421639790&perks=124408337,1955165503
+dimwishlist:item=3421639790&perks=124408337,1955165503
+
+// Judgment / Holofoil / Adept / Adept Holofoil
+//notes:Silver Void PvE
+dimwishlist:item=2226572694&perks=124408337,1955165503
+dimwishlist:item=1773934241&perks=124408337,1955165503
+dimwishlist:item=1987644603&perks=124408337,1955165503
+dimwishlist:item=1987644603&perks=124408337,1955165503
