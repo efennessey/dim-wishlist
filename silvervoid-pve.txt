@@ -1,4 +1,4 @@
-title:PvE God Rolls from the Silver Void clan.
+title:Silver Void - PvE God Rolls
 description:Maintained by sleightmoves
 
 // ====================================================
